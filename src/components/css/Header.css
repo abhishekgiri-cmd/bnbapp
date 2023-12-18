@@ -1,0 +1,32 @@
+.main{
+    background-color: #151227;
+    width: 100%;
+    display: flex;
+    color: white;
+}
+.logo{
+    width: 40%;
+    justify-items: flex-end;
+    margin-top: 5px;
+    margin-left: 6px;
+}
+.mybtn{
+    width: 60%;
+    display: flex;
+    margin-top: 5px;
+}
+.user1{
+    width: 70%;
+     margin: auto;
+}
+.userbtn{
+    width: 20%;
+    margin: auto;
+}
+.mar{
+    background-color: rgb(186, 8, 8);
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: -10px;
+}
